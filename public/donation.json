@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "category": "Education",
+    "image": "https://i.ibb.co/KsB9cjy/Education.png",
+    "amount": 500,
+    "title": "Good Education",
+    "description": "Providing access to quality education is essential for the development of individuals and communities. Your contribution will help us ensure that every child has the opportunity to receive a good education, setting them on a path to a brighter future.",
+    "color_light": "rgba(255, 68, 74, 0.15)",
+    "color_medium": "rgba(255, 68, 74, 0.20)",
+    "color_dark": "#FF444A"
+  },
+  {
+    "id": 2,
+    "category": "Health",
+    "image": "https://i.ibb.co/8K8HWJn/Health.png",
+    "amount": 250,
+    "title": "Clean Water for Children",
+    "description": "Access to clean water is a basic human right. Your support will ensure that children in underprivileged areas have safe and clean drinking water, reducing the risk of waterborne diseases and improving their overall health and well-being.",
+    "color_light": "rgba(0, 82, 255, 0.15)",
+    "color_medium": "rgba(0, 82, 255, 0.20)",
+    "color_dark": "#0052FF"
+  },
+  {
+    "id": 3,
+    "category": "Clothing",
+    "image": "https://i.ibb.co/cwY9sHg/Clothing.png",
+    "amount": 150,
+    "title": "Used Clothing Drive",
+    "description": "Your contribution to the used clothing drive will help provide warm clothing to those in need, especially during the cold months. Your generosity will make a difference in the lives of individuals and families struggling to stay warm and comfortable.",
+    "color_light": "rgba(121, 194, 63, 0.15)",
+    "color_medium": "rgba(121, 194, 63, 0.20)",
+    "color_dark": "#79C23F"
+  },
+  {
+    "id": 4,
+    "category": "Food",
+    "image": "https://i.ibb.co/jgxTM4N/Food.png",
+    "amount": 300,
+    "title": "Better Food for Everyone",
+    "description": "Access to nutritious and affordable food is a fundamental human need. Your support will help us provide better food options to those facing food insecurity, ensuring that no one goes to bed hungry.",
+    "color_light": "rgba(248, 113, 71, 0.15)",
+    "color_medium": "rgba(248, 113, 71, 0.20)",
+    "color_dark": "#F87147"
+  },
+  {
+    "id": 5,
+    "category": "Health",
+    "image": "https://i.ibb.co/8K8HWJn/Health.png",
+    "amount": 400,
+    "title": "Healthcare Access",
+    "description": "Improving healthcare access is essential for the well-being of underserved communities. Your support helps us provide essential medical services to those who need it most.",
+    "color_light": "rgba(0, 82, 255, 0.15)",
+    "color_medium": "rgba(0, 82, 255, 0.20)",
+    "color_dark": "#0052FF"
+  },
+  {
+    "id": 6,
+    "category": "Education",
+    "image": "https://i.ibb.co/KsB9cjy/Education.png",
+    "amount": 550,
+    "title": "Educational Empowerment",
+    "description": "Empowering individuals through education is our mission. Your contribution helps us create a brighter future for children by providing access to quality education.",
+    "color_light": "rgba(255, 68, 74, 0.15)",
+    "color_medium": "rgba(255, 68, 74, 0.20)",
+    "color_dark": "#FF444A"
+  },
+  {
+    "id": 7,
+    "category": "Food",
+    "image": "https://i.ibb.co/jgxTM4N/Food.png",
+    "amount": 350,
+    "title": "Nutrition for All",
+    "description": "Ensuring access to nutritious food is a basic human right. Your support enables us to provide better food options to those in need, making sure no one goes hungry.",
+    "color_light": "rgba(248, 113, 71, 0.15)",
+    "color_medium": "rgba(248, 113, 71, 0.20)",
+    "color_dark": "#F87147"
+  },
+  {
+    "id": 8,
+    "category": "Clothing",
+    "image": "https://i.ibb.co/cwY9sHg/Clothing.png",
+    "amount": 200,
+    "title": "Warmth and Comfort",
+    "description": "Our clothing drive provides warm clothing to those in need, especially during the cold months. Your generosity ensures individuals and families stay warm and comfortable.",
+    "color_light": "rgba(121, 194, 63, 0.15)",
+    "color_medium": "rgba(121, 194, 63, 0.20)",
+    "color_dark": "#79C23F"
+  },
+  {
+    "id": 9,
+    "category": "Education",
+    "image": "https://i.ibb.co/KsB9cjy/Education.png",
+    "amount": 600,
+    "title": "Quality Learning Initiative",
+    "description": "Our Quality Learning Initiative is dedicated to providing quality education for all. Your contribution empowers children to reach their full potential through access to knowledge.",
+    "color_light": "rgba(255, 68, 74, 0.15)",
+    "color_medium": "rgba(255, 68, 74, 0.20)",
+    "color_dark": "#FF444A"
+  },
+  {
+    "id": 10,
+    "category": "Health",
+    "image": "https://i.ibb.co/8K8HWJn/Health.png",
+    "amount": 300,
+    "title": "Optimal Health Solutions",
+    "description": "Vulnerable communities need access to quality healthcare. Your support ensures that essential medical services reach those who are most in need.",
+    "color_light": "rgba(0, 82, 255, 0.15)",
+    "color_medium": "rgba(0, 82, 255, 0.20)",
+    "color_dark": "#0052FF"
+  },
+  {
+    "id": 11,
+    "category": "Clothing",
+    "image": "https://i.ibb.co/cwY9sHg/Clothing.png",
+    "amount": 250,
+    "title": "Clothing for the Needy",
+    "description": "Providing clothing to the needy is our mission. Your contribution helps us ensure that individuals and families have the warmth and comfort they need, especially during the cold seasons.",
+    "color_light": "rgba(121, 194, 63, 0.15)",
+    "color_medium": "rgba(121, 194, 63, 0.20)",
+    "color_dark": "#79C23F"
+  },
+  {
+    "id": 12,
+    "category": "Food",
+    "image": "https://i.ibb.co/jgxTM4N/Food.png",
+    "amount": 400,
+    "title": "Eradicating Hunger",
+    "description": "Eradicating hunger is a global goal. Your support helps us provide nutritious food options to those facing food insecurity, ensuring that no one goes to bed hungry.",
+    "color_light": "rgba(248, 113, 71, 0.15)",
+    "color_medium": "rgba(248, 113, 71, 0.20)",
+    "color_dark": "#F87147"
+  }
+]
